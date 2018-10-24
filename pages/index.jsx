@@ -73,7 +73,7 @@ export default class Index extends Component {
             ))
             : (
               <div className="loading">
-              Loading...
+              Loading ...
               </div>
             )
         }
